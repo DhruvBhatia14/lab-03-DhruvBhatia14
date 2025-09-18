@@ -9,5 +9,4 @@ https://developer.android.com/develop/ui/views/components/dialogs#java
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `N/A`        | `N/A` |
